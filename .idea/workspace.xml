@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="30b17ff9-f889-4cf1-87b2-abf5bdd797a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/skelet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skelet.py" beforeDir="false" afterPath="$PROJECT_DIR$/skelet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
