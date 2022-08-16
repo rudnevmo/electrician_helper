@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30b17ff9-f889-4cf1-87b2-abf5bdd797a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_base/d_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_base/params.py" afterDir="false" />
+    <list default="true" id="30b17ff9-f889-4cf1-87b2-abf5bdd797a0" name="Changes" comment="БД по мідним кабелям з зовнішньою прокладкою">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_base/params.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_base/params.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="d_b" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="electricial_helper" />
@@ -73,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660332750057</updated>
     </task>
+    <task id="LOCAL-00001" summary="БД по мідним кабелям з зовнішньою прокладкою">
+      <created>1660639823353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660639823353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="БД по мідним кабелям з зовнішньою прокладкою" />
+    <option name="LAST_COMMIT_MESSAGE" value="БД по мідним кабелям з зовнішньою прокладкою" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
